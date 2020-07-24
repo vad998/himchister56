@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif, 'Arial';
+    font-weight: 400;
+}
+
+.fs-70 {
+    font-size: 70px;
+}
+
+.fs-60 {
+    font-size: 60px;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.pt-200 {
+    padding-top: 200px;
+}
+
+.pb-200 {
+    padding-bottom: 200px;
+}
+
+.py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.py-200 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.bg-f {
+    background-color: #795a9d;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    height: 50px;
+    width: 50px;
+}
+
+.visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+  }
+
+.fil {
+    filter: drop-shadow(2px 4px 6px black);
+}
